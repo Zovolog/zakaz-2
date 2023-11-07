@@ -1,0 +1,54 @@
+body {
+  font-size: Arial, sans-serif;
+}
+.body-wrapper {
+  margin: 0 auto;
+  padding: 50px 150px 50px 150px;
+}
+.column-experience {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+.block-data {
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  font-weight: bold;
+  font-size: 32px;
+}
+.job {
+  font-size: 26px;
+  margin-top: 20px;
+}
+.photo {
+  border-radius: 50%;
+}
+.header {
+  font-size: 22px;
+  color: grey;
+}
+.text-exp {
+  font-size: 24px;
+  margin-top: 10px;
+}
+.date {
+  font-size: 20px;
+  color: grey;
+  margin-top: 10px;
+}
+.block-info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.text-info {
+  color: grey;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.body-container {
+  display: flex;
+  justify-content: space-between;
+}

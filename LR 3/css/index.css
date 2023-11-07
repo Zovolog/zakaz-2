@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  margin: 50px 0 50px 50px;
+}
+a {
+  margin-left: 10px;
+}
+.form {
+  margin-left: 50px;
+}
